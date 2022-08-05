@@ -31,7 +31,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Mac: Google Drive [Link](https://drive.google.com/file/d/1rKYzBPMeCKLBrbQfnfO6Lgt0iiOp8fDF/view?usp=sharing).
+GIF: ![Link](https://i.imgur.com/eDjyYgj.gif)
+
 
 ## Notes
 
